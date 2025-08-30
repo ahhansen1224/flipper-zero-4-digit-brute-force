@@ -1,0 +1,2 @@
+The code in its current configuration can of course be modified to fit your needs changes could be increasing delays to avoid lock out or a guir command to type the strings into a specific app wanted to leave it very basic so it can be modified easily. This is my first published payload and would love feedback.
+If youre intrested in the python script used to generate your own version of this file with less combonations ill release that as well
